@@ -24,7 +24,16 @@ theme = 'PaperMod'
     [[params.socialIcons]]
         name = "linkedin"
         url = "https://linkedin.com/in/ZhenyanZhang1556510774" # 记得换成真的
-    
+
+[menu]
+    [[menu.main]]
+        name = "Projects"
+        url = "/projects/"
+        weight = 10
+    [[menu.main]]
+        name = "Blog"
+        url = "/blog/"
+        weight = 20
 
 # 解决你截图中的 HTML 警告
 [markup.goldmark.renderer]
