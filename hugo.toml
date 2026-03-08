@@ -1,6 +1,6 @@
-bbaseURL = 'https://zhenyan774.github.io/'
+baseURL = 'https://zhenyan774.github.io/'
 languageCode = 'en-us'
-title = 'Zhenyan Zhang | Quant Research'
+title = 'Zhenyan Zhang | Quant Research & Trder'
 theme = 'PaperMod'
 
 [author]
