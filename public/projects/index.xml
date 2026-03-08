@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>我的个人作品集</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on 我的个人作品集</description>
+    <title>Projects on 我的个人作品集</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on 我的个人作品集</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 08 Mar 2026 06:36:22 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algo Trading</title>
       <link>http://localhost:1313/projects/algo-trading/</link>
