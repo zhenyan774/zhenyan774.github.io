@@ -1,29 +1,30 @@
 baseURL = 'https://zhenyan774.github.io/'
-languageCode = 'zh-cn'
-title = '我的个人作品集'
+languageCode = 'en-us'
+title = 'Zhenyan Zhang | Quant Researcher & Trader'
 theme = 'PaperMod'
 
 # 核心：修复 "Author" 报错需要加这个
 [author]
-    name = "你的名字"
+    name = "Zhenyan Zhang"
 
 [params]
     env = "production"
-    description = "我的个人简历网站"
-    author = "你的名字"
+    description = "my personal website"
+    author = "Zhenyan Zhang"
 
     # 首页配置
     [params.homeInfoParams]
-        Title = "你好，我是 [你的名字] 👋"
-        Content = "欢迎来到我的个人网站。我是一名正在寻找实习/工作的学生，专注于 [你的领域]。"
+        Title = "Hello, I'm Zhenyan 👋"
+        Content = """I am interested in understanding the mechanisms behind financial market behavior. My work combines mathematics, statistical modeling, and machine learning to study financial phenomena and translate these insights into quantitative trading strategies and risk management tools. I am currently pursuing a Master’s degree in Financial Engineering, while actively developing systematic trading models and exploring how mathematical frameworks can help explain and navigate real market dynamics."""
 
     # 社交链接
     [[params.socialIcons]]
         name = "github"
-        url = "https://github.com/[你的用户名]"
+        url = "https://github.com/zhenyan774"
     [[params.socialIcons]]
-        name = "email"
-        url = "mailto:your-email@example.com"
+        name = "linkedin"
+        url = "https://linkedin.com/in/ZhenyanZhang1556510774" # 记得换成真的
+    
 
 # 解决你截图中的 HTML 警告
 [markup.goldmark.renderer]
