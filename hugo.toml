@@ -1,6 +1,11 @@
 baseURL = 'https://zhenyan774.github.io/'
+<<<<<<< HEAD
 languageCode = 'zh-cn'
 title = '我的个人作品集'
+=======
+languageCode = 'en-us'
+title = 'Zhenyan Zhang | Quant Research & Trder'
+>>>>>>> de406c57375444af07fb2e1abea54c1a03993b68
 theme = 'PaperMod'
 
 # 核心：修复 "Author" 报错需要加这个
@@ -22,9 +27,14 @@ theme = 'PaperMod'
         name = "github"
         url = "https://github.com/[你的用户名]"
     [[params.socialIcons]]
+<<<<<<< HEAD
         name = "email"
         url = "mailto:your-email@example.com"
 
 # 解决你截图中的 HTML 警告
 [markup.goldmark.renderer]
     unsafe = true
+=======
+        name = "linkedin"
+        url = "https://linkedin.com/in/ZhenyanZhang1556510774" # 记得换成真的
+>>>>>>> de406c57375444af07fb2e1abea54c1a03993b68
